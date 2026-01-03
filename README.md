@@ -6,6 +6,12 @@ Destroy incoming space rocks, master your ship’s movement, and survive as long
 
 ---
 
+## 🎮 Gameplay Demo
+
+![SpaceRocks Gameplay](assets/demo.gif)
+
+---
+
 ## 🎮 Gameplay
 
 In this game, you:
